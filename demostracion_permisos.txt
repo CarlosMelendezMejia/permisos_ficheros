@@ -1,0 +1,8 @@
+drwxr-sr-t 2 kali kali 4096 Sep 12 16:57 directorio_test
+lrwxrwxrwx 1 kali kali    9 Sep 12 16:50 enlace_cat.txt -> myCMM.txt
+-rw-r--r-- 1 kali kali  272 Sep 12 17:03 integrantes.tar.gz
+-rw-r--r-- 1 kali kali   22 Sep 12 16:48 myCMM.txt
+-rw-r--r-- 1 kali kali   25 Sep 12 17:01 myEJRG.txt
+-rw-r--r-- 1 kali kali   18 Sep 12 17:00 myEPP.txt
+-rw-r--r-- 1 kali kali   25 Sep 12 17:01 myIIUM.txt
+-rwsr-xr-x 1 root root   13 Sep 12 16:52 ping.sh
